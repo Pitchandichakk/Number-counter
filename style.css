@@ -1,0 +1,25 @@
+#counterLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+button{
+    padding: 10px 20px;
+    border-radius: 50px;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 15px;
+
+}
+.box{
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid red;
+    padding: 12px;
+    margin-top: 200px;
+    width: 380px;
+    margin-left: 30%;
+    background-color: rgb(234, 226, 248); 
+}
